@@ -8,7 +8,7 @@ from django.core.exceptions import ObjectDoesNotExist
 
 # Create your views here.
 
-# GET by video_id (unprotecte)
+# GET by video_id (unprotected)
 
 
 @api_view(['GET'])
